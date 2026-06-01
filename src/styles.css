@@ -94,10 +94,10 @@ section {
 
 .footer-links ul li:hover {
   cursor: pointer;
-  color: #000000;
+  color: #ffd500;
 }
 
 .footer-icon i:hover {
   cursor: pointer;
-  color: #000000;
+  color: #ffd500;
 }
