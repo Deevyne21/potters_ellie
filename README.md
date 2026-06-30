@@ -91,8 +91,11 @@ Copyright
 ## 🛠️ Tech Stack
 
 **HTML5** - Semantic markup
+
 **CSS3** - Custom styling
+
 **TailwindCSS v4** - Utility-first CSS framework
+
 **JavaScript (Vanilla)** - Interactive functionality
 
 **Note:** This website is currently under active development.
